@@ -1,0 +1,6 @@
+[submodule "pedal-pal-frontend"]
+	path = pedal-pal-frontend
+	url = https://github.com/Pedal-Pal-CS253/pedal-pal-frontend
+[submodule "pedal-pal-backend"]
+	path = pedal-pal-backend
+	url = https://github.com/Pedal-Pal-CS253/pedal-pal-backend
