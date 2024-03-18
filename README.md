@@ -15,7 +15,7 @@ Here is a video demonstrating the usage of our application -
 TODO: Add video
 
 ## Deployment
-To download and use our application, please install the `pedal-pal-v1.0.apk` file given [here](https://drive.google.com/file/d/1zeBbz2uOEZZM2ulomIMr_8B3pOxKHQdo/view?usp=sharing). Currently the application is available on the Android platform only. The backend of our application is hosted on the [Vercel platform](vercel.com). The administrator view can be accessed [here](https://pedal-pal-backend.vercel.app/admin/).
+To download and use our application, please install the `pedal-pal-v1.0.apk` file given [here](https://drive.google.com/file/d/16vLAnBF8nHyhyBQPX3l_-YrZ74kDL6YB/view?usp=sharing). Currently the application is available on the Android platform only. The backend of our application is hosted on the [Vercel platform](vercel.com). The administrator view can be accessed [here](https://pedal-pal-backend.vercel.app/admin/).
 
 ## Development 
-To set up the development environment locally, please follow the instructions given in the individual repositories, [pedal-pal-backend](https://github.com/Pedal-Pal-CS253/pedal-pal-backend/) and [pedal-pal-frontend](https://github.com/Pedal-Pal-CS253/pedal-pal-backend/).
+To set up the development environment locally, please follow the instructions given in the individual repositories, [pedal-pal-backend](https://github.com/Pedal-Pal-CS253/pedal-pal-backend/) and [pedal-pal-frontend](https://github.com/Pedal-Pal-CS253/pedal-pal-frontend/).
