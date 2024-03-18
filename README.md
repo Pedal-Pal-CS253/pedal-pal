@@ -11,9 +11,6 @@ PedalPal aims to enhance the cycling experience for IITK students through a conv
 
 Intended audience of the application - IITK campus community and visitors
 
-Here is a video demonstrating the usage of our application - 
-TODO: Add video
-
 ## Deployment
 To download and use our application, please install the `pedal-pal-v1.0.apk` file given [here](https://drive.google.com/file/d/16vLAnBF8nHyhyBQPX3l_-YrZ74kDL6YB/view?usp=sharing). Currently the application is available on the Android platform only. The backend of our application is hosted on the [Vercel platform](vercel.com). The administrator view can be accessed [here](https://pedal-pal-backend.vercel.app/admin/).
 
