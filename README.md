@@ -12,7 +12,11 @@ PedalPal aims to enhance the cycling experience for IITK students through a conv
 Intended audience of the application - IITK campus community and visitors
 
 ## Deployment
-To download and use our application, please install the `pedal-pal-v1.0.apk` file given [here](https://drive.google.com/file/d/16vLAnBF8nHyhyBQPX3l_-YrZ74kDL6YB/view?usp=sharing). Currently the application is available on the Android platform only. The backend of our application is hosted on the [Vercel platform](vercel.com). The administrator view can be accessed [here](https://pedal-pal-backend.vercel.app/admin/).
+To download and use our application, please install the `pedal-pal-v1.1.apk` file given [here](https://drive.google.com/drive/folders/1NgxvJv4w105I9mXTnCMT2q3f57FX7lac?usp=sharing). Currently the application is available on the Android platform only. The backend of our application is hosted on the [Vercel platform](vercel.com). The administrator view can be accessed [here](https://pedal-pal-backend.vercel.app/admin/).
+
+The QR codes corresponding to various locks are also provided in the same Google Drive link. Initial database contains around 30 locks which have cycles attached to them and 10 which are free. To see which lock is what, please check it in the admin view. The credentials are given in the user manual. 
+
+To make payments, please use the RazorPay dummy card details as given [here](https://razorpay.com/docs/payments/payments/test-card-details#test-card-for-indian-payments). Please do not use real money as we do not guarantee that it can be returned back.
 
 ## Development 
 To set up the development environment locally, please follow the instructions given in the individual repositories, [pedal-pal-backend](https://github.com/Pedal-Pal-CS253/pedal-pal-backend/) and [pedal-pal-frontend](https://github.com/Pedal-Pal-CS253/pedal-pal-frontend/).
