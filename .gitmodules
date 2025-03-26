@@ -4,3 +4,6 @@
 [submodule "pedal-pal-backend"]
 	path = pedal-pal-backend
 	url = https://github.com/Pedal-Pal-CS253/pedal-pal-backend
+[submodule "PedalPal-CS253-Documentation"]
+	path = PedalPal-CS253-Documentation
+	url = https://github.com/AmoghBhagwat/PedalPal-CS253-Documentation/
